@@ -1,0 +1,13 @@
+{
+    "name": "weak-import",
+    "title": "Weak Import",
+    "description": "Parse JSON from initiative roller",
+    "author": "Sjon",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.7",
+    "compatibleCoreVersion": "0.7.7",
+    "esmodules": [
+        "modules/import.js"
+    ],
+    "system": "dnd5e"
+}
